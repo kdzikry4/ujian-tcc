@@ -36,7 +36,7 @@ URL: https://github.com/kdzikry4/tcc/tree/master/minggu-11
 Ringkasan : melakukan kolaborasi pada repo https://github.com/najibun/piyepakde dengan melakukan fork, pull request  dengan materi tentang software IAAS
 12. Materi Praktikum 12 
 URL: https://github.com/kdzikry4/tcc/tree/master/minggu-12    
-Ringkasan : mempelajari dan membuat container berisi drupal dengan docker dan menjalankannya,dan seharusnya dapat diakses 
+Ringkasan : mempelajari dan membuat container berisi drupal dengan docker-compose dan menjalankannya,dan seharusnya dapat diakses 
 13. Materi Praktikum 13 
 URL: https://github.com/kdzikry4/tcc/tree/master/minggu-13    
 Ringkasan : mempelajari dan membuat docker swarm dengan 2 node dengan server dan client lalu menjalankannya, dan melakukan pengetesan 
